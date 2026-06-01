@@ -1,6 +1,5 @@
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
-
         num1 = 0
         num2 = 0
         power = 0
